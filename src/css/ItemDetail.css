@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+.contenedor-itemdetail{
+    font-family: "Nunito";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+.prod-itemdetail{
+    background-color: #ffffff;
+    box-shadow: 0 8px 16px #e19498;
+    border-radius: 2px;
+    padding: 24px;
+    max-width: 400px;
+    width: 100%;
+    transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.prod-itemdetail:hover {
+    transform: scale(1.03);
+    opacity: 0.95;
+}
+
+.prod-itemdetail h2{
+    text-align: center;
+    color: #e19498;
+    font-size: 38px;
+    margin-bottom: 16px;
+}
+
+.prod-itemdetail img{
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    object-fit: cover;
+    margin-bottom: 16px;
+}
+
+.prod-itemdetail p.descripcion{
+    text-align: center;
+    margin: 8px 0;
+    color: #6e5e60;
+    font-weight: 600;
+    font-size: 19px;
+}
+
+.prod-itemdetail p.precio{
+    text-align: center;
+    font-size: 30px;
+    color: #652e38; 
+    font-weight: 700;
+    margin-top: 12px;
+}
+
+
+
