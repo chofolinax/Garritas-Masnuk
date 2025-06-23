@@ -28,7 +28,7 @@
 - **Firebase:** Base de datos en la nube (https://firebase.google.com)
 - **React Toastify:** Notificaciones personalizables (https://fkhadra.github.io/react-toastify)
 - **CSS personalizado:** Estilos hechos a medida
-
+- **SweetAlert2:** Ventanas para mostrar mensajes (https://sweetalert2.github.io)
 
 ---
 
