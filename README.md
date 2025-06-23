@@ -32,7 +32,7 @@
 
 ---
 
-### Instalacion 🐶
+### 🐶 Instalacion 
 
 1. Clone el repositorio
 2. Haga el comando `cd Garritas-Masnuk` para moverse a la carpeta del proyecto
@@ -41,7 +41,7 @@
 
 ---
 
-### Version host 🐱
+### 🐱 Version host 
 
 Ingresa al siguiente link para ver este proyecto online (https://garritas-masnuk.vercel.app/)
 
