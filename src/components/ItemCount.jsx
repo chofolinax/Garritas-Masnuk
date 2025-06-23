@@ -5,7 +5,7 @@ import { DiSnapSvg } from 'react-icons/di'
 const ItemCount = ({stock, onAdd}) => {
     const [count, setCount]= useState(1)
     const restar = () => {
-        if(count > 0){
+        if(count > 1){
         setCount(count - 1)
         }
     }

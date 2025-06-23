@@ -29,13 +29,6 @@ const ItemDetailContainer = () => {
     },[])
 
 
-    // useEffect(()=>{
-    //   setLoading(true)
-    //     getOneProduct(itemId)
-    //     .then((response)=> setDetalle(response))
-    //     .catch((error)=> console.log(error))
-    //     .finally(() => setLoading(false))
-    // },[])
     if(invalid){
       return(
         <div>

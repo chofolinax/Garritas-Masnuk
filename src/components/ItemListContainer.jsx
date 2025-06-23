@@ -29,19 +29,6 @@ const ItemListContainer = ({greeting}) =>{
             .finally(()=> setLoading(false))
         },[categoryId])
 
-    // useEffect(()=>{
-    //     setLoading(true)
-    //     getProducts()
-    //     .then((respuesta)=>{
-    //         if(categoryId){
-    //             setData(respuesta.filter((prod)=> prod.category === categoryId))
-    //         }else{
-    //             setData(respuesta)
-    //         }
-    //         })
-    //     .catch((error)=> console.error(error))
-    //     .finally(()=> setLoading(false))
-    // },[categoryId])
 
 
 
