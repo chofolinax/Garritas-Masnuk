@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react"
 import { getProducts, products } from "../mock/AsyncService"
 import ItemList from "./ItemList"
-import "../css/ItemListContainer.css"
+import "../css/itemListContainer.css"
 import { useParams } from "react-router-dom"
 import LoaderComponent from "./LoaderComponent"
 import {addDoc, collection, getDocs, query, where} from 'firebase/firestore'
