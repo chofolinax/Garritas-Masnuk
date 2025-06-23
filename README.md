@@ -29,11 +29,6 @@
 - **React Toastify:** Notificaciones personalizables
 - **CSS personalizado:** Estilos hechos a medida
 
----
-
-### 📸 Capturas de pantalla
-
-![app] (/public/readmescreenshot.png)
 
 ---
 
