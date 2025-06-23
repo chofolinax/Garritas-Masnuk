@@ -1,12 +1,49 @@
-# React + Vite
+## 🐾 Garritas Petshop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenidos a **Garritas Petshop**! Un e-commerce dedicado a los amantes de los animales, donde podés encontrar accesorios, juguetes y ropa para tus mascotas.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 📦 ¿Qué es Garritas Petshop?
 
-## Expanding the ESLint configuration
+**Garritas Petshop** es una tienda online construida con tecnologías modernas como **React**, **Firebase** y **CSS**. El proyecto simula un flujo completo de compra, desde la navegación de productos hasta el checkout.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 🚀 Funcionalidades
+
+- 🛍️ Visualización de productos por categoría
+- 🔎 Detalle individual de cada producto
+- ➕ Agregar productos al carrito
+- 🛒 Gestión del carrito (modificar cantidades, eliminar)
+- 🧾 Proceso de compra con formulario de usuario
+- 🔥 Integración con **Firebase Firestore** para almacenar órdenes
+
+---
+
+### 🛠️ Tecnologías utilizadas
+
+- **React.js:** Libreria para crear interfaces de usuario dinamicas
+- **React Router DOM:** Navegacion entre paginas sin recargar la app
+- **Firebase:** Base de datos en la nube
+- **React Toastify:** Notificaciones personalizables
+- **CSS personalizado:** Estilos hechos a medida
+
+---
+
+### 📸 Capturas de pantalla
+
+![app] (/public/readmescreenshot.png)
+
+---
+
+### Instalacion 🐶
+
+1. Clone el repositorio
+2. Haga el comando `cd Garritas-Masnuk` para moverse a la carpeta del proyecto
+3. Instale dependencias con el comando `npm install`
+4. Para levantar la app en el servidor local ejecute el comando `npm run dev`
+
+### 🙋‍♀️ Autor 
+
+**Sofía Masnuk ᓚᘏᗢ**

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+.carrito-vacio{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.carrito-vacio h2{
+    font-family: "Nunito";
+    font-size: 45px;
+    margin-top: 50px;
+    color: #d46079;
+}
+
+.carrito-vacio h4{
+    font-family: "Nunito";
+    font-size: 30px;
+    color: #944355;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}

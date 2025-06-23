@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+.orden-generada {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.orden-generada h2 {
+    color: #aa4d61;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-family: 'Nunito';
+}
+
+.formulario-orden h1 {
+    color: #d46079;
+    text-align: center;
+    font-family: 'Nunito';
+    margin-bottom: 1rem;
+}
+
+.formulario-orden {
+    max-width: 400px;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fde6df;
+    font-family: 'Nunito';
+}
+
+.formulario-orden h1 {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.formulario-orden form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.formulario-orden input {
+    padding: 0.6rem;
+    border: 1px solid #aaa;
+    border-radius: 6px;
+    font-size: 1rem;
+}
+
+.formulario-orden button {
+    font-family: 'Nunito';
+    font-size: 20px;
+    padding: 0.75rem;
+    background-color: #aa4d61;
+    color: white;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.formulario-orden button:hover {
+    background-color: #d45474;
+}

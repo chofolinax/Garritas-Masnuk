@@ -49,10 +49,19 @@
 .prod-itemdetail p.precio{
     text-align: center;
     font-size: 30px;
-    color: #652e38; 
+    color: #aa4d61; 
     font-weight: 700;
     margin-top: 12px;
 }
+
+.btn-prim{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    margin-top: 1rem;
+}
+
 
 
 

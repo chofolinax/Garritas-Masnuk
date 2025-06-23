@@ -16,13 +16,13 @@
 }
 
 a{  
-    color:#94546c;
-    text-shadow: 0 0 5px #e9dce4;
+    color:#d46079;
+    text-shadow: 0 0 5px #f5f0f3;
     font-family: "Nunito";
-    font-size: 18px;
+    font-size: 20px;
     letter-spacing: 2px;
     text-transform: uppercase;
-    font-weight: bold;
+    font-weight: 900;
     text-decoration: none;
     transition: transform 0.6s;
 }
