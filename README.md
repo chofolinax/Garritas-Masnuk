@@ -23,16 +23,16 @@
 
 ### 🛠️ Tecnologías utilizadas
 
-- **React.js:** Libreria para crear interfaces de usuario dinamicas
-- **React Router DOM:** Navegacion entre paginas sin recargar la app
-- **Firebase:** Base de datos en la nube
-- **React Toastify:** Notificaciones personalizables
+- **React.js:** Libreria para crear interfaces de usuario dinamicas (https://reactjs.org)
+- **React Router DOM:** Navegacion entre paginas sin recargar la app (https://reactrouter.com)
+- **Firebase:** Base de datos en la nube (https://firebase.google.com)
+- **React Toastify:** Notificaciones personalizables (https://fkhadra.github.io/react-toastify)
 - **CSS personalizado:** Estilos hechos a medida
 
 
 ---
 
-### 🐶 Instalacion 
+### 🐶 Instalación 
 
 1. Clone el repositorio
 2. Haga el comando `cd Garritas-Masnuk` para moverse a la carpeta del proyecto
@@ -41,7 +41,7 @@
 
 ---
 
-### 🐱 Version host 
+### 🐱 Versión host 
 
 Ingresa al siguiente link para ver este proyecto online (https://garritas-masnuk.vercel.app/)
 
