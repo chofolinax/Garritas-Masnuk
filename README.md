@@ -39,6 +39,12 @@
 3. Instale dependencias con el comando `npm install`
 4. Para levantar la app en el servidor local ejecute el comando `npm run dev`
 
+---
+
+### Version host 🐱
+
+Ingresa al siguiente link para ver este proyecto online (https://garritas-masnuk.vercel.app/)
+
 ### 🙋‍♀️ Autor 
 
-**Sofía Masnuk ᓚᘏᗢ**
+**Sofía Masnuk**
